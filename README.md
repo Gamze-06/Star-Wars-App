@@ -1,12 +1,14 @@
-# React + Vite
+# 🌌 Star Wars Starship Explorer 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React.js ile geliştirilmiş bir Star Wars gemi kütüphanesidir. SWAPI (https://www.swapi.tech/) API'sinden veri çekerek gemileri listeler, arama yapmanızı sağlar ve her gemi için detay sayfası sunar.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Özellikler
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Arama çubuğu ile isim/model bazlı filtreleme
+- 🛸 Gemi kartları: responsive, hover efektli ve şık tasarım
+- 📄 Detay sayfasında bireysel gemi bilgileri
+- 🖼 Görsel destekli detay görünümü (`/public/ship.png`)
+- ⚡ React Router ile çoklu sayfa geçişi
+- 🎨 CSS ile özel tema ve tutarlı görsellik
